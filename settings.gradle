@@ -1,0 +1,6 @@
+rootProject.name = packageName
+include ':app'
+
+include ':n-module-net'
+
+include ':library'

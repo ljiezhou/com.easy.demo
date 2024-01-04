@@ -1,0 +1,77 @@
+plugins {
+    id 'com.android.library'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    namespace "com.easy.demo.net"
+    compileSdk rootProject.ext.android.compileSdkVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+
+
+//        buildConfigField "String", "HOST_DEFAULT_URL", "\"${rootProject.ext.host_default}${rootProject.ext.host_project_name}\""
+//        buildConfigField "String", "HOST_BETA_URL", "\"${rootProject.ext.host_beta}${rootProject.ext.host_project_name}\""
+    }
+
+    buildTypes {
+        release {
+            consumerProguardFiles 'proguard-rules.pro'
+        }
+        debug {
+            consumerProguardFiles 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+}
+
+dependencies {
+    api NetLibs.INSTANCE.okhttp3
+    api NetLibs.INSTANCE.gson
+
+    // Gson 解析容错：https://github.com/getActivity/GsonFactory
+    implementation Easy.INSTANCE.easy_http_factory
+    // Kotlin 反射库：用于反射 Kotlin data class 类对象
+    api KotlinLibs.INSTANCE.kotlin_reflect
+
+
+//    api Easy.INSTANCE.easy_http_
+//    api(name: Easy.easy_http, ext: 'aar')
+    //直接依赖源码
+    api project(':library')
+
+    api AndroidLibs.INSTANCE.appcompat
+    api AndroidLibs.INSTANCE.appcompat_resources
+
+    api AndroidLibs.INSTANCE.multidex
+    api AndroidLibs.INSTANCE.core_ktx
+    api AndroidLibs.INSTANCE.material
+    api AndroidLibs.INSTANCE.constraintlayout
+
+//    api CommonLibs.INSTANCE.unpeek_livedata
+
+
+    api KotlinLibs.INSTANCE.coroutines
+
+    api LifecycleLibs.INSTANCE.values
+
+    api CommonLibs.INSTANCE.mmkv
+    api CommonLibs.INSTANCE.mmkv_ktx
+
+    api(name: CommonLibs.INSTANCE.viewbinding_base_release, ext: 'aar')
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+}

@@ -1,0 +1,35 @@
+apply plugin: 'com.android.library'
+
+android {
+    namespace "com.hjq.http"
+    compileSdk rootProject.ext.android.compileSdkVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+    }
+    buildTypes {
+        release {
+            consumerProguardFiles 'proguard-rules.pro'
+        }
+        debug {
+            consumerProguardFiles 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    // noinspection GradleDependency
+    api 'com.squareup.okhttp3:okhttp:4.12.0'
+    // noinspection GradleDependency
+    api 'androidx.lifecycle:lifecycle-common:2.1.0'
+    // noinspection GradleDependency
+    api 'androidx.lifecycle:lifecycle-runtime:2.1.0'
+}

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9242d43-0ca9-48a4-8779-25c7d5dc5914" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.31.160:5555]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.easy.demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2We3J9xhdKIeouD3hB2wFg8OBo7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "BundleExportedModule": "com.mot.wallpaper.motion.app",
+    "DEBUGGABLE_DEVICE": "huawei-tel_an00a-192.168.31.160:5555",
+    "DEBUGGABLE_PROCESS": "com.fan.wallpaper.fantasy",
+    "DEBUGGER_ID": "Auto",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHOW_ALL_PROCESSES": "false",
+    "android-custom-view/Users/zhoulijie/.gradle/caches/modules-2/files-2.1/com.github.CarGuo.GSYVideoPlayer/gsyVideoPlayer-java/v8.5.0-release-jitpack/bbc0974aaecafe43328359756263e51a98328f9f/gsyVideoPlayer-java-v8.5.0-release-jitpack-sources.jar!/com/shuyu/gsyvideoplayer/video/StandardGSYVideoPlayer.java_SELECTED": "StandardGSYVideoPlayer",
+    "android-custom-view/Users/zhoulijie/.gradle/caches/modules-2/files-2.1/com.github.CarGuo.GSYVideoPlayer/gsyVideoPlayer-java/v8.5.0-release-jitpack/bbc0974aaecafe43328359756263e51a98328f9f/gsyVideoPlayer-java-v8.5.0-release-jitpack-sources.jar!/com/shuyu/gsyvideoplayer/video/base/GSYVideoControlView.java_SELECTED": "GSYVideoControlView",
+    "android-custom-view/Users/zhoulijie/.gradle/caches/modules-2/files-2.1/com.github.CarGuo.GSYVideoPlayer/gsyVideoPlayer-java/v8.5.0-release-jitpack/bbc0974aaecafe43328359756263e51a98328f9f/gsyVideoPlayer-java-v8.5.0-release-jitpack-sources.jar!/com/shuyu/gsyvideoplayer/video/base/GSYVideoPlayer.java_SELECTED": "GSYVideoPlayer",
+    "android-custom-view/Users/zhoulijie/.gradle/caches/modules-2/files-2.1/io.github.scwang90/refresh-footer-classics/2.0.5/e6668747020939b2bbc1a905f4c73077dbc5ac7b/refresh-footer-classics-2.0.5-sources.jar!/com/scwang/smart/refresh/footer/ClassicsFooter.java_SELECTED": "ClassicsFooter",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/app/src/main/java/com/fan/wallpaper/fantasy/widget/LoadMoreRecyclerView.java_SELECTED": "LoadMoreRecyclerView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/m-module-video/src/main/java/com/fan/wallpaper/fantasy/video/EmptyControlVideo.java_SELECTED": "EmptyControlVideo",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/m-module-video/src/main/java/com/fan/wallpaper/video/EmptyControlVideo.java_SELECTED": "EmptyControlVideo",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/fan/wallpaper/fantasy/common/widget/ProgressWebView.java_SELECTED": "ProgressWebView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/fan/wallpaper/fantasy/common/widget/loading/LoadingView.kt_SELECTED": "LoadingView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/fan/wallpaper/fantasy/common/widget/roundcorners/RCRecyclerView.java_SELECTED": "RCRecyclerView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/fan/wallpaper/fantasy/widget/LoadMoreRecyclerView.java_SELECTED": "LoadMoreRecyclerView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/fan/wallpaper/fantasy/widget/ProgressWebView.java_SELECTED": "ProgressWebView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/wall/dream/wallpaper/common/widget/ProgressWebView.java_SELECTED": "ProgressWebView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/wall/dream/wallpaper/common/widget/loading/LoadingView.kt_SELECTED": "LoadingView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/wall/wallpaper/fantasy/common/widget/ProgressWebView.java_SELECTED": "ProgressWebView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-common/src/main/java/com/wall/wallpaper/fantasy/common/widget/loading/LoadingView.kt_SELECTED": "LoadingView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-image/src/main/java/com/wall/dream/wallpaper/imageload/widget/CircleImageView.java_SELECTED": "CircleImageView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy/x-module-image/src/main/java/com/wall/dream/wallpaper/imageload/widget/CircleProgressView.kt_SELECTED": "CircleProgressView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy1/x-module-common/src/main/java/com/fan/wallpaper/fantasy/widget/LoadMoreRecyclerView.java_SELECTED": "LoadMoreRecyclerView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy1/x-module-image/src/main/java/com/easy/demo/fantasy/imageload/widget/CircleProgressView.kt_SELECTED": "CircleProgressView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy1/x-module-image/src/main/java/com/easy/demo/imageload/widget/CircleImageView.java_SELECTED": "CircleImageView",
+    "android-custom-view/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.fan.wallpaper.fantasy1/x-module-image/src/main/java/com/easy/demo/imageload/widget/SelectImageView.kt_SELECTED": "SelectImageView",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/zhoulijie/zhou/Projects/mc/overseas/wallpaper/com.easy.demo/xxx-key",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.26395938",
+    "recommended.upgrade.do.not.ask.for.project": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "show.migrate.to.gradle.popup": "false",
+    "two.files.diff.last.used.file": "/Users/zhoulijie/zhou/Projects/mc/JunkCode/app/JunkCode3.gradle"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xxx-key" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+      <recent name="$PROJECT_DIR$/x-module-common/src/main/res" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m-module-video/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/m-module-video/src/main/res" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/color" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/fan" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.easy.demo" />
+      <recent name="com.fan.wallpaper.fantasy.common.base.viewmodel" />
+      <recent name="com.fan.wallpaper.fantasy.common.base.fragment" />
+      <recent name="com.fan.wallpaper.fantasy.common.base.activity" />
+      <recent name="com.fan.wallpaper.fantasy.common.base" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.fan.wallpaper.fantasy.home" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.easy.demo.app" />
+      <recent name="com.fan.wallpaper.fantasy.net.bean" />
+      <recent name="com.fan.wallpaper.fantasy.video.service" />
+      <recent name="com.base.common.util" />
+      <recent name="com.module.net.easy.model" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle app:assembleRelease" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="com.easy.demo.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.fan.wallpaper.fantasy [androidDependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="androidDependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="com.fan.wallpaper.fantasy [app:assembleRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="app:assembleRelease" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="com.fan.wallpaper.fantasy:app [assembleRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleRelease" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="com.fan.wallpaper.fantasy:app [bundleRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bundleRelease" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.com.fan.wallpaper.fantasy [androidDependencies]" />
+        <item itemvalue="Gradle.com.fan.wallpaper.fantasy:app [assembleRelease]" />
+        <item itemvalue="Gradle.com.fan.wallpaper.fantasy:app [bundleRelease]" />
+        <item itemvalue="Gradle.com.fan.wallpaper.fantasy [app:assembleRelease]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9242d43-0ca9-48a4-8779-25c7d5dc5914" name="Changes" comment="" />
+      <created>1697079144306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697079144306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="live_wallpaper" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/m-module-video/src/main/java/com/fan/wallpaper/fantasy/video/setwallpaper/newset/SetWallpaper.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/callback/NormalCallback.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/n-module-net/src/main/java/com/easy/demo/net/easy/RequestHandler.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/callback/NormalCallback.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/callback/NormalCallback.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/config/IRequestHandler.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/EasyUtils.java</url>
+          <line>437</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/EasyUtils.java</url>
+          <line>409</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/EasyUtils.java</url>
+          <line>416</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/EasyUtils.java</url>
+          <line>428</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/EasyUtils.java</url>
+          <line>433</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/hjq/http/listener/HttpCallbackProxy.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

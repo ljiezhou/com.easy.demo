@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.easy.demo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.easy.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/com.easy.demo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.easy.demo.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/com.easy.demo.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.easy.demo.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.easy.demo.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.easy.demo.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.easy.demo.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/com.easy.demo.library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.iml" filepath="$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.main.iml" filepath="$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/n-module-net/com.easy.demo.n-module-net.unitTest.iml" />
+    </modules>
+  </component>
+</project>

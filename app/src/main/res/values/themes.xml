@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!--        <item name="colorPrimaryDark">@color/res_color_black</item>-->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:forceDarkAllowed" tools:ignore="NewApi">false</item>
+        <item name="android:windowBackground">@drawable/fan_common_window_bg</item>
+        <item name="android:resizeableActivity">true</item>
+    </style>
+
+    <style name="FanTheme" parent="BaseTheme" />
+
+
+</resources>
